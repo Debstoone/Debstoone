@@ -1,4 +1,4 @@
-# Lets learn python
+# Lets learn python 
 
 #At the begining of a file you can have multiple imports to import usefull librarys
 #Example:
